@@ -1,0 +1,50 @@
+mat-card {
+    max-width: 600px;
+    margin: 2em auto;
+    text-align: center;
+    max-height: 600px;
+    border-radius: black;
+  }
+  
+  .header{
+    text-align: center;
+    font-size: xx-large;
+  
+  }
+  .full-width {
+    width: 80%;
+    font-size:larger;
+    border-color: black;
+  }
+  
+  .button-row {
+    padding-top: 5px;
+  }
+  
+  .button-row a {
+    margin-right: 8px;
+    text-align: center;
+    font-size: medium;
+  }
+  
+  .forget-password{
+    padding-left: 0px;
+  }
+  
+  .emailInput{
+    padding-top: 10px;
+  }
+  
+  
+  
+  .aLink{
+    float: right;
+    padding-right: 60px;
+    text-decoration: none;
+  }
+  .container{
+    height: 100%;
+    padding: 60px 1rem;
+    background:lightgrey;
+    display: block;
+}
